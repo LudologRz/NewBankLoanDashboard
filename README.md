@@ -1,5 +1,5 @@
-[screenshotpreview](IconsAndImages/firefox_fvFbgHBVpR.jpg)
-[screenshotpreview2](IconsAndImages/firefox_iyXpnE9QhU.jpg)
+![screenshotpreview2](IconsAndImages/firefox_iyXpnE9QhU.jpg)
+![screenshotpreview](IconsAndImages/firefox_fvFbgHBVpR.jpg)
 
 ### Bank Loan Dashboard
 
